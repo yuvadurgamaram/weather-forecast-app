@@ -103,7 +103,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-yuva durga laalitha maram
+yuva durga lalitha maram
 
 This project marks the beginning of my journey into full-stack web development and reflects my enthusiasm for building practical and user-friendly web applications.
 
